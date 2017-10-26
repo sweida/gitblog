@@ -18,21 +18,21 @@
 ## 效果图
 > 开启页面
 
-![开启页面](https://github.com/sweida/myblog/blob/master/img/001.jpg)
+![开启页面](https://raw.githubusercontent.com/sweida/myblog/master/img/001.jpg)
 
 
 > 列表界面
 
-![列表界面](https://github.com/sweida/myblog/blob/master/img/002.png)
+![列表界面](https://raw.githubusercontent.com/sweida/myblog/master/img/002.png)
 
 > 详情界面
 
-![详情界面](https://github.com/sweida/myblog/blob/master/img/003.png)
+![详情界面](https://raw.githubusercontent.com/sweida/myblog/master/img/003.png)
 
 > 兼容手机端
 
-![手机端](https://github.com/sweida/myblog/blob/master/img/004.png)
+![手机端](https://raw.githubusercontent.com/sweida/myblog/master/img/004.png)
 
-![手机端](https://github.com/sweida/myblog/blob/master/img/005.png)
+![手机端](https://raw.githubusercontent.com/sweida/myblog/master/img/005.png)
 
-![手机端](https://github.com/sweida/myblog/blob/master/img/006.png)
+![手机端](https://raw.githubusercontent.com/sweida/myblog/master/img/006.png)
